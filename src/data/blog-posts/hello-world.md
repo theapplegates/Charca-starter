@@ -11,4 +11,4 @@ This post intentionally left blank.
 Write what you want.
 
 
-![Test Image](/public/assets/images/testimage.jpg)
+![Test Image](/assets/images/testimage.jpg)
