@@ -1,0 +1,19 @@
+{
+  "name": "astro-blog-template",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "@astrojs/renderer-svelte": "^0.2.1",
+    "astro": "^0.21.5"
+  },
+  "dependencies": {
+    "astro-imagetools": "^0.6.10",
+    "reading-time": "^1.5.0"
+  }
+}
